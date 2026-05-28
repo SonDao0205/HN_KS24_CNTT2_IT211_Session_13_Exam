@@ -51,6 +51,6 @@ public class BookControllerTest {
         when(bookService.getBookById(1L)).thenThrow(new BookNotFound("Not Found"));
 
         mockMvc.perform(get("/api/v1/books/1"))
-                .andExpect(status().isBadRequest());
+                .andExpect(status().isNotFound());
     }
 }

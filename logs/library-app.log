@@ -62,3 +62,27 @@
 2026-05-28 14:40:26 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
 2026-05-28 14:40:26 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
 2026-05-28 14:40:26 [Test worker] INFO  ra.demo.BookControllerTest - Started BookControllerTest in 1.169 seconds (process running for 1.746)
+2026-05-28 14:58:53 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 9.0.1.Final
+2026-05-28 14:58:53 [Test worker] INFO  ra.demo.BookControllerTest - Starting BookControllerTest using Java 21.0.10 with PID 20327 (started by mac in /Users/mac/Downloads/KiemTraHackathon_SpringAPI)
+2026-05-28 14:58:53 [Test worker] DEBUG ra.demo.BookControllerTest - Running with Spring Boot v4.0.6, Spring v7.0.7
+2026-05-28 14:58:53 [Test worker] INFO  ra.demo.BookControllerTest - No active profile set, falling back to 1 default profile: "default"
+2026-05-28 14:58:54 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-05-28 14:58:54 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-05-28 14:58:54 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2026-05-28 14:58:54 [Test worker] INFO  ra.demo.BookControllerTest - Started BookControllerTest in 1.21 seconds (process running for 1.823)
+2026-05-28 14:59:05 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 9.0.1.Final
+2026-05-28 14:59:05 [Test worker] INFO  ra.demo.BookControllerTest - Starting BookControllerTest using Java 21.0.10 with PID 20353 (started by mac in /Users/mac/Downloads/KiemTraHackathon_SpringAPI)
+2026-05-28 14:59:05 [Test worker] DEBUG ra.demo.BookControllerTest - Running with Spring Boot v4.0.6, Spring v7.0.7
+2026-05-28 14:59:05 [Test worker] INFO  ra.demo.BookControllerTest - No active profile set, falling back to 1 default profile: "default"
+2026-05-28 14:59:06 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-05-28 14:59:06 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-05-28 14:59:06 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2026-05-28 14:59:06 [Test worker] INFO  ra.demo.BookControllerTest - Started BookControllerTest in 1.136 seconds (process running for 1.716)
+2026-05-28 14:59:19 [background-preinit] INFO  o.h.validator.internal.util.Version - HV000001: Hibernate Validator 9.0.1.Final
+2026-05-28 14:59:19 [Test worker] INFO  ra.demo.BookControllerTest - Starting BookControllerTest using Java 21.0.10 with PID 20375 (started by mac in /Users/mac/Downloads/KiemTraHackathon_SpringAPI)
+2026-05-28 14:59:19 [Test worker] DEBUG ra.demo.BookControllerTest - Running with Spring Boot v4.0.6, Spring v7.0.7
+2026-05-28 14:59:19 [Test worker] INFO  ra.demo.BookControllerTest - No active profile set, falling back to 1 default profile: "default"
+2026-05-28 14:59:20 [Test worker] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2026-05-28 14:59:20 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2026-05-28 14:59:20 [Test worker] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2026-05-28 14:59:20 [Test worker] INFO  ra.demo.BookControllerTest - Started BookControllerTest in 1.204 seconds (process running for 1.858)

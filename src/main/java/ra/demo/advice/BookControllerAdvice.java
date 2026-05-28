@@ -49,7 +49,7 @@ public class BookControllerAdvice {
                 "Có lỗi xảy ra",
                 null,
                 ex.getLocalizedMessage(),
-                HttpStatus.BAD_REQUEST
-        ), HttpStatus.BAD_REQUEST);
+                HttpStatus.NOT_FOUND
+        ), HttpStatus.NOT_FOUND);
     }
 }
